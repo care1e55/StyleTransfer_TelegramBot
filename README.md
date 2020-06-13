@@ -2,7 +2,7 @@
 
 ### @tproject11_bot
 
-Transfer style telegram bot maded as MIPT Deep Learning School graduate project. Hosting on local machine and most of the time shutted down due to the lack of GPU.
+Transfer style telegram bot maded as MIPT Deep Learning School 1st semester graduate project. Hosting on local machine and most of the time shutted down due to the lack of GPU.
 All incomming requests are queued.
 
 For hosting on your own just assign your token string to TOKEN in main.py and run as python application 
