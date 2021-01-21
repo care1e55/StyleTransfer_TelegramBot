@@ -97,7 +97,6 @@ def error(context, update, error):
 if __name__ == '__main__':
     TOKEN = ''
     updater = Updater(token=TOKEN,
-                      request_kwargs={'proxy_url': 'socks5h://163.172.152.192:1080'},
                       use_context=True)
 
     updater.dispatcher.add_handler(style_transfer_handler)
